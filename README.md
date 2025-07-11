@@ -29,7 +29,7 @@ This is a **Streamlit** web application that uses **LangChain**, **Groq's Gemma 
 1. **Clone this repo:**
 
 ```bash
-git clone https://github.com/your-username/text-to-math-solver.git
+git clone https://github.com/KartikNimhan/Text-to-Math-Problem-Solver-Using-Gemma-2.git
 cd text-to-math-solver
 ````
 
