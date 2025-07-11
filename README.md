@@ -74,7 +74,7 @@ The app will return a step-by-step explanation with the correct math reasoning.
 
 ## 📸 Screenshot
 
-*(Insert your app screenshot here)*
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6246be19-66c5-4eeb-999e-68711e3574ef" />
 
 ---
 
