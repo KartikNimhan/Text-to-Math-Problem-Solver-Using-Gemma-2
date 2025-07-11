@@ -86,7 +86,7 @@ MIT License
 
 ## 🙋‍♂️ Author
 
-Developed by **Your Name**
+Developed by **Kartik Nimhan**
 🔗 [GitHub](https://github.com/KartikNimhan)
 📧 [kartiknimhan9929.com](mailto:kartiknimhan9929.com)
 
